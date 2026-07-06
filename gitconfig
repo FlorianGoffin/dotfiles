@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = goffin59810@gmail.com
+	name = florian goffin
